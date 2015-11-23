@@ -1,5 +1,5 @@
 {
-  "name": "Vocabattle",
+  "name": "LoveThyNeighbor",
   "version": "1.0.0",
   "description": "Description",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FinnBorge/vocabattle.git"
+    "url": "git+https://github.com/FinnBorge/lovethyneighbor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FinnBorge/vocabattle/issues"
+    "url": "https://github.com/FinnBorge/lovethyneighbor/issues"
   },
-  "homepage": "https://github.com/FinnBorg/vocabattle#readme",
+  "homepage": "https://github.com/FinnBorg/lovethyneighbor#readme",
   "dependencies": {
     "autoprefixer": "^6.1.1",
     "bcryptjs": "^2.3.0",
